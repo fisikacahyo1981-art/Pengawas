@@ -1,0 +1,6 @@
+{
+  "name": "SiWasPro - Sistem Informasi Pengawas Profesional",
+  "description": "Platform Enterprise Pengawasan Sekolah Modern untuk Pengawas Pembina, Kepala Sekolah, Guru, dan Dinas Pendidikan dengan integrasi Dapodik, PMM, dan Rapor Pendidikan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
